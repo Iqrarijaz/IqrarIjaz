@@ -1,5 +1,5 @@
 ## ABOUT ME
-My name is Iqrar Ijaz Malik & Im from Pakistan.Im student of Software Engineering 7th semester and have learned a lot since from start of my degree.
+My name is Iqrar Ijaz Malik & Im from Pakistan.Im student of Software Engineering 7th semester who likes self-studying.
 Today, I am doing Flutter projects. You can call me Mobile Developer in learning stage. 
 
 I have grip on the following:
@@ -10,17 +10,7 @@ I have grip on the following:
 3. Java
 4. Dart
 
-**Frameworks**
-1. ReactJS
-2. NodeJS
-3. NextJS
-4. Angular
-5. React Native
-6. GraphQL
-
 **Databases**
 1. MySql
 2. Firebase
 
-**Operating Systems**
-1. Ubuntu
